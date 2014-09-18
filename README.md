@@ -24,3 +24,6 @@ Add a tab bar for Box Office and DVD.
 
 Add a search bar
 
+Walkthrough of all user stories:
+
+![Video Walkthrough](movieapp.gif)
