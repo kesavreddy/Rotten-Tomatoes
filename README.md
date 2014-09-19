@@ -1,6 +1,6 @@
 Rotten-Tomatoes
 ===============
-Time Spent :- 2hr
+Time Spent :- 12hr
 
 Supported Features
 ===============
